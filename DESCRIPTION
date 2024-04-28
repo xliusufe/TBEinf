@@ -1,0 +1,16 @@
+Package: TBEinf
+Type: Package
+Title: TBEinf
+Version: 0.0.1
+Authors@R: c(person(given = "Ziyu", family = "Xiang", role = c("aut", "cre"), email = "xiangziyu2867@163.com"), person(given = "Xu", family = "Liu", role = c("aut")), person(given = "Shaul", family = "Bar-Lev", role = c("aut")), person(given = "Ad", family = "Ridder", role = c("aut")))
+Author: Ziyu Xiang [aut,cre], Xu Liu [aut], Shaul Bar-Lev [aut], Ad Ridder [aut]
+Maintainer: Ziyu Xiang <xiangziyu2867@163.com>
+Description: Computations for the density of TBE infinity, including direct calculation, saddlepoint approximation, Fourier inversion, and related methods. Estimation and prediction obtained by applying TBE infinity in the generalized linear model.
+License: GPL (>=2)
+Imports: pracma
+Repository: github
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 2024-04-28 09:23:55 UTC; ASUS

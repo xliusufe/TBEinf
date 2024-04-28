@@ -1,0 +1,8 @@
+import('pracma')
+exportPattern("^[[:alpha:]]+")
+
+export(dTBEinf)
+export(TBEinf.Dev)
+export(logLikTBEinf)
+export(TBEinf.glm.fit)
+export(TBEinf.glm.pre)
